@@ -1,2 +1,2 @@
 # view_github_profile
-Created with CodeSandbox
+Приложение для просмотра github - профиля
