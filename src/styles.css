@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-color: rgba(255, 255, 255, 0.7);
+}
+
+body {
+  background-color: #141c2f;
+  font-family: "Source Code Pro", monospace;
+  font-weight: 400;
+  color: var(--main-color);
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app-container {
+  max-width: 560px;
+}
